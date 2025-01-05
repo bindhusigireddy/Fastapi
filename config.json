@@ -1,0 +1,19 @@
+{
+    "uvicorn" : {
+        "host" : "localhost",
+         "port" : 9998
+    },
+
+    "mysql" : {
+        "user" : "root",
+         "password":"root",
+         "host":"localhost",
+         "port":3306
+
+    }
+
+
+}
+
+
+
